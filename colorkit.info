@@ -1,0 +1,6 @@
+/* $Id: colorkit.info,v 1.0 2010/04/04 12:00:00 whoviz Exp $ */
+name = ColorKit
+description = Allows the user to change the color scheme of certain themes.
+package = Other
+version = VERSION
+core = 6.x
